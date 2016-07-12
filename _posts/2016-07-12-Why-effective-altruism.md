@@ -12,7 +12,8 @@ category: effective altruism
 
 My name is Michel Cevzar and I used to spend most of my younger days between enjoying myself and volunteering. Now I am trying to become an effective altruist.  
 
-For me the journey to become an altruist came in the following stages.
+For me the journey to become an altruist came in the following stages.  
+
 
 ## 1. stage: Enjoying myself and my youth
 
@@ -33,6 +34,7 @@ For me the journey to become an altruist came in the following stages.
   
 And for another reason... **I want to earn it.**
 
+
 ## 2. stage: Traveling 
 
 **It entroduced me to material minimalism and put things in a global perspective.**
@@ -44,6 +46,7 @@ Couchsurfing and going to places where locals go, I got exposed to a bigger insi
 *Changing enviroments also helped me a lot to reinvent myself as in a new enviroment habits lose their triggers and it's much easier to establish new habits.* **We are what we repeatedly do.**
 
 *All my stuff still fits into 2 backpacks and if I buy or get something new, I get "rid" of something else in my possesion.*
+
 
 ## 3. stage: What's the point of hedonism?
  
@@ -57,12 +60,14 @@ Most of the fun was just that fun and nothing more.
 
 ___Fun and hedonism exist only inside your head.___
 
+
 ## 4. stage: What is the point of an average middle class life?
 
 Work, home, wife, kids, sleep, repeat. Maybe a morgage so you can afford your own house and die in peace on your piece of land. 
 ***Congratulations you passed on your "very important" genes and well that is your legacy.***
 
 Your life will have very little meaning and small longterm impact on the world at large. The effect you will have will stay in your own little bubble/village/town. Essentialy your life is irrelavant.
+
 
 ## 5. stage: How to become an effective altruist?
 This is where I am now. 
@@ -90,6 +95,8 @@ You spend most of your life at work.
 Do something that meanigfully benefits the largest number of people possible and does't waste our natural resources.
 
 If you know that a couple of hours of volunteering is maximum what you can do AND you do that - I aplaud you. That is already much more than most people. If you add to that lowering your consumption, "FIST BUMP" fellow citizen of the world. 
+
+
 
 ## Appendix: Question for the fellow consumer
 
