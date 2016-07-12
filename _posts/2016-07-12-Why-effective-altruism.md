@@ -14,7 +14,7 @@ My name is Michel Cevzar and I used to spend most of my younger days between enj
 
 For me the journey to become an altruist came in the following stages.
 
-##1. stage: Enjoying myself and my youth
+## 1. stage: Enjoying myself and my youth
 
 **I had a bucket list** that looked something like this:
 
@@ -33,7 +33,7 @@ For me the journey to become an altruist came in the following stages.
   
 And for another reason... **I want to earn it.**
 
-##2. stage: Traveling 
+## 2. stage: Traveling 
 
 **It entroduced me to material minimalism and put things in a global perspective.**
 
@@ -45,7 +45,7 @@ Couchsurfing and going to places where locals go, I got exposed to a bigger insi
 
 *All my stuff still fits into 2 backpacks and if I buy or get something new, I get "rid" of something else in my possesion.*
 
-##3. stage: What's the point of hedonism?
+## 3. stage: What's the point of hedonism?
  
 When I was surfing for 3 months in Portugal, it came like a moment of relief as I have finished the most important points on my bucketlist.  
 
@@ -57,14 +57,14 @@ Most of the fun was just that fun and nothing more.
 
 ___Fun and hedonism exist only inside your head.___
 
-##4. stage: What is the point of an average middle class life?
+## 4. stage: What is the point of an average middle class life?
 
 Work, home, wife, kids, sleep, repeat. Maybe a morgage so you can afford your own house and die in peace on your piece of land. 
 ***Congratulations you passed on your "very important" genes and well that is your legacy.***
 
 Your life will have very little meaning and small longterm impact on the world at large. The effect you will have will stay in your own little bubble/village/town. Essentialy your life is irrelavant.
 
-##5. stage: How to become an effective altruist?
+## 5. stage: How to become an effective altruist?
 This is where I am now. 
 
 Why just altruism isn't **good enough**?  
