@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Similar syntax of modern programming languages
+title: Modern programming language syntax similarites
 category: programming
 ---
 
