@@ -21,15 +21,18 @@ Let's have a look at the most classical and usually the first programm someone w
 print("Hello World")
 ```
 
+
 ### Swift
 ```
-println("Hello World!")
+print("Hello World!")
 ```
+
 
 ### Julia
 ```
 println("Hello World")
 ```
+
 
 ### Go*
 *Go a C-style flavour, in the beggining we import the "fmt" (formating) package that we need for "printing" out our code
