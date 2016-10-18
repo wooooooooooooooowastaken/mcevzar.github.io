@@ -17,22 +17,22 @@ already know how to programm in one off the languages below that you could write
 Let's have a look at the most classical and usually the first programm someone would run in a new programming language
 **Hello Wordl**
 
-###Python
+### Python
 ```
 print("Hello World")
 ```
 
-###Swift
+### Swift
 ```
 println("Hello World!")
 ```
 
-###Julia
+### Julia
 ```
 println("Hello World")
 ```
 
-###Go
+### Go
 *Go a C-style flavour, in the beggining we import the "fmt" (formating) package that we need for "printing" out our code
 and Go, like C supports main function. If we take that into consideration the main bit looks like `fmt.Println("Hello World")`,
 which is again very similar to other programming languages mentioned.
