@@ -38,7 +38,7 @@ print("Hello World")
 
 ### Go*
 *Go a C-style flavour, in the beggining we import the "fmt" (formating) package that we need for "printing" out our code
-and Go, like C supports main function. The function that actually does what we want `fmt.Println("Hello World")` looks very similar to the ones above.
+and Go, like C supports main function. The function that actually does what we want `fmt.Print("Hello World")` looks very similar to the ones above.
 
 ```
 package main
@@ -47,7 +47,7 @@ import "fmt"
 
 func main() {
 
-    fmt.Println("Hello World")
+    fmt.Print("Hello World")
 
 }
 ```
