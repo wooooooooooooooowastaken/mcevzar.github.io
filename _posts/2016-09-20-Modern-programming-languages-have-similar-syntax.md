@@ -24,7 +24,7 @@ print("Hello World")
 
 ### Swift
 ```
-print("Hello World!")
+print("Hello World")
 ```
 
 
