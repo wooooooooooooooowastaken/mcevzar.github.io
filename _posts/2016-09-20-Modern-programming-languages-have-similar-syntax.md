@@ -22,12 +22,10 @@ print("Hello World")
 ```
 
 
-
 ### Swift
 ```
 print("Hello World!")
 ```
-
 
 
 ### Julia
