@@ -33,7 +33,7 @@ print("Hello World")
 ### Julia
 &nbsp;
 ```
-println("Hello World")
+print("Hello World")
 ```
 
 ### Go*
