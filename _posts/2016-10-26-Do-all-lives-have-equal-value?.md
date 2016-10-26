@@ -13,7 +13,6 @@ The biggest part of analysis paralysis in terms if effective altruism for me was
 &nbsp;
 **"All lives have equal value".**
 &nbsp;
-
 Do people believe that, is there any research on the topic or is it just a mindset that helps out of analysis paralysis?
 &nbsp;
 The people that we save by buying mosquito nets. 
