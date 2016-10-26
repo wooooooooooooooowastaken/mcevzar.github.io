@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modern programming language syntax similarites
+title: Do all lives have equal value?
 category: effective altruism
 ---
 
