@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free ways of becomming and effective altruist
-category: programming
+category: effective altruism
 ---
 
 {{ page.title }}
