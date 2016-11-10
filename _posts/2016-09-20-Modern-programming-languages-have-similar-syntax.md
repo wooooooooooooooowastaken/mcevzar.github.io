@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Modern programming language syntax similarites
-category: programming
+category: programing
 ---
 
 {{ page.title }}
