@@ -19,6 +19,7 @@ If that is impossible here are some ways that cost nothing.
 &nbsp;
 
 **FREE and easy ways to become a more effective altruist:**
+
 - become an organ donor
 - donate your body to science when you die (you advance science plus no funeral money is required)
 - take (buy) only what you need
@@ -27,6 +28,7 @@ If that is impossible here are some ways that cost nothing.
 - if you do sports or any other hobby, try organising a group for those who can't afford payed lessons or to simply motivate yourself and others to live a healthier life
 - eat less meat
 - volunteer
+
 &nbsp;
 
 &nbsp;
