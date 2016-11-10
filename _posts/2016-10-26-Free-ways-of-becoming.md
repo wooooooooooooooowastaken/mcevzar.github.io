@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Free ways of becomming and effective altruist
+title: Free ways of becomming an effective altruist
 category: effective altruism
 ---
 
