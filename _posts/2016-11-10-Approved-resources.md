@@ -9,8 +9,6 @@ category: links
 
 <p class="meta">10 Nov 2016 - Ljubljana</p>
 
-# Approved Resources 
-
 *This post is regularly updated*
 
 **WEBSITES AND BOOKS AIMED TO EMPOWER.**
