@@ -1,3 +1,14 @@
+---
+layout: post
+title: Approved resources
+category: links
+---
+
+{{ page.title }}
+================
+
+<p class="meta">10 Nov 2016 - Ljubljana</p>
+
 # Approved Resources 
 
 *This post is regularly updated*
