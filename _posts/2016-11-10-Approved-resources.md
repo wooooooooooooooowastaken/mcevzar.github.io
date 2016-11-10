@@ -28,7 +28,7 @@ category: links
 
 - [Clearer Thinking](http://www.clearerthinking.org/) free online tools, courses, and training programs aimed at avoiding thinking traps and making improved decisions 
 
-- [Center for Applied Rationality](http://rationality.org/) nonprofit aimed at turning cognitive science to cognitive practice, they made this awesome rational habit checklist
+- [Center for Applied Rationality](http://rationality.org/) nonprofit aimed at turning cognitive science to cognitive practice, they made an awesome [rational habit checklist](http://2ho3pq1fpuw423qecr4886n1.wpengine.netdna-cdn.com/wp-content/uploads/2013/01/checklist_of_rationality_habits.pdf)
 
 - [Cognitive bias list](http://rationalwiki.org/wiki/List_of_cognitive_biases) your brain uses shortcuts and sometimes those don't lead where we want to go, here is a more graphical representation
 - [Cognitive Biases Poster](http://ritholtz.com/wp-content/uploads/2016/09/1-71TzKnr7bzXU_l_pU6DCNA.jpeg) -  well designed poster with a number of cognitive biases
@@ -63,7 +63,8 @@ category: links
 - **Makers: The New Industrial Revolution - atoms are the new bits**
 
 - **Biopsychology** you know the parts of your computer and how they work, but do you know about your own hardware aka your brain
-Surely You're Joking, Mr. Feynman! - autobiography from a great physicist and great physics teacher (not often are those two skills combined)
+
+- **Surely You're Joking, Mr. Feynman!** autobiography from a great physicist and great physics teacher (not often are those two skills combined)
 
 
 *More coming soon*
