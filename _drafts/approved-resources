@@ -1,37 +1,48 @@
-## Approved Resources
+# Approved Resources 
+
+*This post is regularly updated*
 
 **WEBSITES AND BOOKS AIMED TO EMPOWER.**
 
-In no particular order.
+*Themes and titles no particular order. Jump to the theme by clicking on the link below*
 
-### EFFECTIVE ALTRUISM/ rationality
+- [RATIONALITY](#rationality)
+- [EFFECTIVE ALTRUISM](#effective altruism)
+- [SCIENCE](#science)
+<br><br>
+
+## RATIONALITY
 
 **Websites**
 
-- [Less Wrong leading](http://lesswrong.com/) portal on rationality, cognitive practice, start HERE
+- [Less Wrong](http://lesswrong.com/) portal on rationality, cognitive practice
 
 - [Clearer Thinking](http://www.clearerthinking.org/) free online tools, courses, and training programs aimed at avoiding thinking traps and making improved decisions 
 
-- [Center for Applied Rationality] nonprofit aimed at turning cognitive science to cognitive practice, they made this awesome rational habit checklist
+- [Center for Applied Rationality](http://rationality.org/) nonprofit aimed at turning cognitive science to cognitive practice, they made this awesome rational habit checklist
+
+- [Cognitive bias list](http://rationalwiki.org/wiki/List_of_cognitive_biases) your brain uses shortcuts and sometimes those don't lead where we want to go, here is a more graphical representation
+- [Cognitive Biases Poster](http://ritholtz.com/wp-content/uploads/2016/09/1-71TzKnr7bzXU_l_pU6DCNA.jpeg) -  well designed poster with a number of cognitive biases
+
+**Books**
+
+- [Harry Potter and Methods of Rationality - FREE](http://hpmor.com/) - the most popular fanfic featuring a genius scientist Harry Potter in an alternate magical universe
+
+- [Gödel, Escher, Bach - FREE](https://www.physixfan.com/wp-content/files/GEBen.pdf) - classic book about how cognition and thinking emerge from well-hidden neurological mechanisms
+
+- [The Dating Game - FREE](http://people.duke.edu/~dandan/stories/Dating.pdf) - short story about how (ir)rational is dating
+
+
+### EFFECTIVE ALTRUISM
+
+**Websites**
 
 - [Effective Altruism Wiki](http://wiki.effectivealtruismhub.com/index.php?title=Effective_Altruism_Wiki) practical advice on how to spread the 
   word about effective altruism
   
-- [The Life You Can Save](https://www.thelifeyoucansave.org/)
+- [The Life You Can Save](https://www.thelifeyoucansave.org/) website where you can learn what your money can do, what are some effective charities and how to spread the actions and mindset of effective altruism with [Giving Games](https://www.thelifeyoucansave.org/Giving-Games/Resources/Instruction-Manual) and turning your Birthday Parties into [Donation Parties](https://www.thelifeyoucansave.org/Blog/ID/185/Donate-your-birthday-and-raise-money-for-charity)
 
-- 80,000 Hours - a career guide for those who want to have the most altruistic impact
-
-- Cognitive bias list - your brain uses shortcuts and sometimes those don't lead where we want to go, here is a more graphical representation
-- Cognitive Biases Poster -  well designed poster with a number of cognitive biases
-
-**Books**
-
-- Harry Potter and Methods of Rationality [FREE] - the most popular fanfic featuring a genius scientist Harry Potter in an alternate magical universe
-
-- Gödel, Escher, Bach [FREE] - classic book about how cognition and thinking emerge from well-hidden neurological mechanisms
-
-- The Dating Game [FREE] - short story about how (ir)rational is dating
- 
+- [80,000 Hours](http://rationality.org/) a career guide for those who want to have the most altruistic impact
 
 
 ### SCIENCE
@@ -40,99 +51,110 @@ In no particular order.
 **Books**
 
 
-- Thinking Physics - a perfect beginner’s guide to an amazingly wide range of physics-related questions (one of my favourites)
-The Feynman Lectures on Physics [FREE] - ranging from the basic principles of Newtonian physics through such formidable theories as general relativity and quantum mechanics, Feynman’s lectures are one of the best collections of books on physics
-Makers: The New Industrial Revolution - atoms are the new bits
-Biopsychology - you know the parts of your computer and how they work, but do you know about your own hardware aka your brain
+- **Thinking Physics** - a perfect beginner’s guide to an amazingly wide range of physics-related questions (one of my favourites)
+
+- [The Feynman Lectures on Physics - FREE]() ranging from the basic principles of Newtonian physics through such formidable theories as general relativity and quantum mechanics, Feynman’s lectures are one of the best collections of books on physics
+
+- **Makers: The New Industrial Revolution - atoms are the new bits**
+
+- **Biopsychology** you know the parts of your computer and how they work, but do you know about your own hardware aka your brain
 Surely You're Joking, Mr. Feynman! - autobiography from a great physicist and great physics teacher (not often are those two skills combined)
  
 
 
-CODING aka PROGRAMMING
+### CODING aka PROGRAMMING
 
 
-Websites & IDE
+**Websites & IDE**
 
+- [Python tutor]() tool to visualize what goes on when you execute a program written in Python
+- [PyCharm Edu - FREE]() - this is the best IDE for learning Python I have come across
 
-Python tutor - tool to visualize what goes on when you execute a programme written in Python
-PyCharm Edu [FREE] - this is the best IDE for learning Python I have come across
-Books
+**Books**
 
+- [Automate the Boring Stuff with Python - FREE] teaches Python using projects that could be found useful in our day to day lives
 
-Automate the Boring Stuff with Python [FREE] - teaches Python using projects that could be found useful in our day to day lives
-Think Like a Programmer - a programming language is just that, a language, it's learned the same way you would learn English, the trick to programming in my opinion is to become a great problem solver using that language, this is what this book is about
-No Starch Press - great publishing company for computer geeks
-JavaScript For Cats [FREE] - online book on coding in JavaScript, funny & useful
+- [Think Like a Programmer]() a programming language is just that, a language, it's learned the same way you would learn English, the trick to programming in my opinion is to become a great problem solver using that language, this is what this book is about
+
+- [No Starch Press] great publishing company for computer geeks
+
+- [JavaScript For Cats - FREE]() online book on coding in JavaScript, funny & useful
+
+#### MUSIC
+
+- [Hooktheory]() online resource for learning music theory, breaking down songs and writing your own
+
+- [John Mayer Berklee Clinic 2008]() - as a singer/songwriter the only talk you ever need to hear
  
 
 
-MUSIC
+### BUSINESS & MONEY MANAGEMENT
 
+**Websites**
 
-Hooktheory - online resource for learning music theory, breaking down songs and writing your own
-John Mayer Berklee Clinic 2008 - as a singer/songwriter the only talk you ever need to hear
+- [Derek Sivers]() one of the most transparent and to the point entrepreneurs, his website if filled with great insight
+
+- [Afford Anything]() - author states, you can't afford everything but you can afford anything
+
+- [Mr. Money Moustache]() - financial freedom guide, with extra moustache
+
+- [Early Retirement Extreme]() a combination of simple living, anticonsumerism, DIY ethics, self-reliance, and applied capitalism
+
+**Books**
+
+- [How an Economy Grows and Why It Crashes - FREE]() explains economics in the most simple and fun way I have come across
+
+- [Let My People Go Surfing]() - how a climbing & fishing dirtbag was forced into business and how he kept to his values (this book made me want to go back to starting a company)
+
+- **How to Get Rich: One of the World's Greatest Entrepreneurs Shares His Secrets** the most honest biography of a billionaire I have read, if you are money hungry, must read
+
+- **Total Recall: My Unbelievably True Life Story** Arnold Schwarzeneggers life story (he is a badass)
+
+- **The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich** - best things money can buy are health, time and options
  
 
 
-BUSINESS & MONEY MANAGEMENT
+#### SCI-FI BOOKS
 
 
-Websites
+- [The Martian]() books are always better than the movies, this one puts a stranded astronaut alone on Mars, his only hope for survival is: science
 
+- **Star Trek: Destiny** Star Trek is one of rare television productions that sees the future of humanity in a optimistic way, as we will transcend into something better not just another apocalypse movie
 
-Derek Sivers - one of the most transparent and to the point entrepreneurs, his website if filled with great insight
-Afford Anything - author states, you can't afford everything but you can afford anything
-Mr. Money Moustache - financial freedom guide, with extra moustache
-Early Retirement Extreme - a combination of simple living, anticonsumerism, DIY ethics, self-reliance, and applied capitalism
-Books
-
-
-How an Economy Grows and Why It Crashes [FREE] - explains economics in the most simple and fun way I have come across
-Let My People Go Surfing - how a climbing & fishing dirtbag was forced into business and how he kept to his values (this book made me want to go back to starting a company)
-How to Get Rich: One of the World's Greatest Entrepreneurs Shares His Secrets - the most honest biography of a billionaire I have read, if you are money hungry, must read
-Total Recall: My Unbelievably True Life Story - Arnold Schwarzeneggers life story (he is a badass)
-The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich - best things money can buy are health, time and options
+- **Post-Human Series** in the future we will transcend our biology and face new threats
  
 
 
-SCI-FI BOOKS
+#### WEB BROWSER EXTENSIONS
 
 
-The Martian - books are always better than the movies, this one puts a stranded astronaut alone on Mars, his only hope for survival is: science
-Star Trek: Destiny - Star Trek is one of rare television productions that sees the future of humanity in a optimistic way, as we will transcend into something better not just another apocalypse movie
-Post-Human Series - in the future we will transcend our biology and face new threats
+- [The Great Suspender]() it suspends your tabs so they stay in your browser window but stop using so much resources
+
+- [Google Dictionary]() - knowing the meaning of words is just a click away
+
+- [Google Translate]() not Babel Fish yet but good enough
+- [Fair Adblock]() ads are attention killers
+
+- [Gmelius for Gmail]() turn of ads and adjust Gmail to your liking, there is a version available also for Inbox, Gmelius for Inbox
+
+- [Gmail Filters]() I still can't believe how many people aren't using these, they are a must if you have a cluttered inbox, let the computer do the sorting for you
+
+ 
+#### OPERATING SYSTEM & PROGRAMS (OpenSource aka FREE)
+
+
+- Linux Lubuntu LTS - stability and long term support are my preferences, this is a very fast distro, very low on resources and has all you might need to be productive (no viruses and crashes)
+
+- Red Shift/ FLUX - blue screen is not optimal for you sleep, this will turn it to a more red-ish one, that is easier on the brain
  
 
 
-CHROME EXTENSIONS
+#### COMPANIES (reduce, reuse, recycle)
+
+- [Patagonia]() - privately owned and as green as it gets while making one of the best outdoor clothes
+
+- [American Apparel]() - not as environmentally green as Patagonia but definitely sweatshop free (made in L.A.) and more elegant clothes in all sizes, with no logos (you are not a billboard)
+
+- [The Wirecutter]() here you will find best product review summarized as you don't have time going through all of them yourself
 
 
-The Great Suspender - it suspends your tabs so they stay in your browser window but stop using so much resources
-Social Fixer for Facebook - tailors you Fb experience more to you liking
-Google Dictionary - knowing the meaning of words is just a click away
-Google Translate - not Babel Fish yet but good enough
-Adblock Plus - ads are attention killers
-Polarr Photo Editor - outsource your photo editing to the cloud
-Google Keep - your short term memory last for cca. 20s, expand it
-Gmelius for Gmail - turn of ads and adjust Gmail to your liking, there is a version available also for Inbox, Gmelius for Inbox
-Gmail Filters - I still can't believe how many people aren't using these, they are a must if you have a cluttered inbox, let the computer do the sorting for you
-Page Ruler - if you design frontends or webpages, a must have
- 
-
-
-OPERATING SYSTEM & PROGRAMS (OpenSource aka FREE)
-
-
-Linux Lubuntu LTS - stability and long term support are my preferences, this is a very fast distro, very low on resources and has all you might need to be productive (no viruses and crashes)
-ClipIt - clipboard manager for we all use copy and paste a lot, why not be good at it
-Guake Terminal - because the terminal should be like a Quake console, always a button away
-Red Shift - blue screen is not optimal for you sleep, this will turn it to a more red-ish one, that is easier on the brain
- 
-
-
-COMPANIES (reduce, reuse, recycle)
-
-
-Patagonia - privately owned and as green as it gets while making one of the best outdoor clothes
-American Apparel - not as environmentally green as Patagonia but definitely sweatshop free (made in L.A.) and more elegant clothes in all sizes, with no logos (you are not a billboard)
-The Wirecutter - here you will find best product review summarized as you don't have time going through all of them yourself
