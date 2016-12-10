@@ -10,7 +10,9 @@ category: links
 <p class="meta">10 Nov 2016 - Ljubljana</p>
 
 *This post is regularly updated*
-
+<br>
+[**HERE**](https://www.bibsonomy.org/user/michelc) you can browse and search all my web browser bookmarks. 
+<br>
 **WEBSITES AND BOOKS AIMED TO EMPOWER.**
 
 *Themes and titles no particular order. Jump to the theme by clicking on the link below*
