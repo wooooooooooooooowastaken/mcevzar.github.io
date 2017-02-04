@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Approved resources
+title: Approved books and websites
 category: links
 ---
 
