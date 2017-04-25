@@ -9,9 +9,10 @@ category: links
 
 <p class="meta">25 April 2017 - Ljubljana</p>
 
-*This post is regularly updated*
 <br><br>
 [**HERE**](https://www.bibsonomy.org/user/michelc) you can browse and search all my web browser bookmarks. 
+I use tags to mark my bookmarks, so if you want to see more of what is great stuff on the topic of mathematics, just type "mathematics"
+and you will get all the link in chronological order with latest at the top.
 <br><br>
 **WEBSITES AND BOOKS TO EMPOWER.**
 
