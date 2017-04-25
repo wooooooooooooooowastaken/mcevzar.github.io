@@ -12,7 +12,7 @@ category: links
 <br><br>
 [**HERE**](https://www.bibsonomy.org/user/michelc) you can browse and search all my web browser bookmarks. 
 
-I use tags to mark my bookmarks, so if you want to see more of what I thinks is great stuff on the topic of mathematics, just type "mathematics" and you will get all the links in chronological order with latest at the top. I bookmark link everyday, so this is the place where you get my latest favourite things that are not in the Wiki or this post yet.
+I use tags to mark my bookmarks, so if you want to see more of what I thinks is great stuff on the topic of mathematics, just type "mathematics" and you will get all the links in chronological order with latest at the top. I bookmark links everyday, so this is the place where you get my latest favourite things that are not in the Wiki or this post yet.
 <br><br>
 **WEBSITES AND BOOKS TO EMPOWER.**
 
