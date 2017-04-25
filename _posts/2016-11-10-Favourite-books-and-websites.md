@@ -7,7 +7,7 @@ category: links
 {{ page.title }}
 ================
 
-<p class="meta">10 Nov 2016 - Ljubljana</p>
+<p class="meta">25 April 2017 - Ljubljana</p>
 
 *This post is regularly updated*
 <br><br>
@@ -17,14 +17,70 @@ category: links
 
 *Themes and titles no particular order. Jump to the theme by clicking on the link below*
 
+- [SCIENCE](#science)
 - [RATIONALITY](#rationality)
 - [EFFECTIVE ALTRUISM](#effective-altruism)
-- [SCIENCE](#science)
+
 <br><br>
+
+### SCIENCE
+
+Why to learn science? Below are great novels that will help you answer the question why science is cool :D
+
+- [Harry Potter and Methods of Rationality - FREE](http://hpmor.com/) - the most popular fanfic featuring a genius scientist Harry Potter in an alternate magical universe
+
+- [The Martian](https://www.readanybook.com/ebook/the-martian-565265)
+
+- Contact by Carl Sagan. 
+ I love the fact that the leading character is a woman. Not enough women in STEM.
+
+- Foundation collection by Isaac Asimov (sadly not translated in Slovenian, if I will have the time I will do it in next 10 years)
+
+To understand todays world, I would start in the following order: **math, physics, basic computer science, cognitive neuroscience**.
+
+#### Math
+
+**Math websites**
+
+
+- Spletna učilnica Fakultete za matematiko in fiziko, je prosto dostopna ;)
+
+- [Learning math on your own](https://medium.com/@amathstudent/learning-math-on-your-own-39fe90c3536b)
+
+- [Here’s How to Teach Yourself Physics and Math](https://futurism.com/want-physicist-heres-guide/)
+
+#### Physics
+
+**Phyiscs websites**
+
+[How to become a GOOD Theoretical Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html)
+
+[So You Want to Learn Physics...](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
+
+**Physics Books**
+
+- **Thinking Physics** - a perfect beginner’s guide to an amazingly wide range of physics-related questions (one of my favourites)
+
+- [The Feynman Lectures on Physics - FREE]() ranging from the basic principles of Newtonian physics through such formidable theories as general relativity and quantum mechanics, Feynman’s lectures are one of the best collections of books on physics
+
+- **Surely You're Joking, Mr. Feynman!** autobiography from a great physicist and great physics teacher (not often are those two skills combined)
+
+
+#### Computer science
+
+[TOMO](https://www.projekt-tomo.si/accounts/login/?next=/course/17/)
+
+[Teach Yourself Computer Science](https://teachyourselfcs.com/)
+
+#### Cognitive neuroscience
+
+- **Biopsychology** you know the parts of your computer and how they work, but do you know about your own hardware aka your brain
+
+- [Gödel, Escher, Bach - FREE](https://www.physixfan.com/wp-content/files/GEBen.pdf) - classic book about how cognition and thinking emerge from well-hidden neurological mechanisms
 
 ## RATIONALITY
 
-**Websites**
+**Rationality websites**
 
 - [Less Wrong](http://lesswrong.com/) portal on rationality, cognitive practice
 
@@ -35,17 +91,13 @@ category: links
 - [Cognitive bias list](http://rationalwiki.org/wiki/List_of_cognitive_biases) your brain uses shortcuts and sometimes those don't lead where we want to go, here is a more graphical representation
 - [Cognitive Biases Poster](http://ritholtz.com/wp-content/uploads/2016/09/1-71TzKnr7bzXU_l_pU6DCNA.jpeg) -  well designed poster with a number of cognitive biases
 
-**Books**
-
-- [Harry Potter and Methods of Rationality - FREE](http://hpmor.com/) - the most popular fanfic featuring a genius scientist Harry Potter in an alternate magical universe
-
-- [Gödel, Escher, Bach - FREE](https://www.physixfan.com/wp-content/files/GEBen.pdf) - classic book about how cognition and thinking emerge from well-hidden neurological mechanisms
+**Rationality books**
 
 - [The Dating Game - FREE](http://people.duke.edu/~dandan/stories/Dating.pdf) - short story about how (ir)rational is dating
 
-### EFFECTIVE ALTRUISM
+### EFFECTIVE ALTRUISM (EA)
 
-**Websites**
+**EA websites**
 
 - [Effective Altruism Wiki](http://wiki.effectivealtruismhub.com/index.php?title=Effective_Altruism_Wiki) practical advice on how to spread the 
   word about effective altruism
@@ -54,22 +106,9 @@ category: links
 
 - [80,000 Hours](http://rationality.org/) a career guide for those who want to have the most altruistic impact
 
-### SCIENCE
-
-**Books**
-
-- **Thinking Physics** - a perfect beginner’s guide to an amazingly wide range of physics-related questions (one of my favourites)
-
-- [The Feynman Lectures on Physics - FREE]() ranging from the basic principles of Newtonian physics through such formidable theories as general relativity and quantum mechanics, Feynman’s lectures are one of the best collections of books on physics
-
-- **Makers: The New Industrial Revolution - atoms are the new bits**
-
-- **Biopsychology** you know the parts of your computer and how they work, but do you know about your own hardware aka your brain
-
-- **Surely You're Joking, Mr. Feynman!** autobiography from a great physicist and great physics teacher (not often are those two skills combined)
 
 
-*More coming soon*
+*I will try to update it asap*
 
 Best,
 Michel
