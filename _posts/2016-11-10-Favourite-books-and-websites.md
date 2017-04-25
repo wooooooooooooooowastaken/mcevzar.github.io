@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Approved books and websites
+title: Favourite books and websites
 category: links
 ---
 
@@ -13,7 +13,7 @@ category: links
 <br><br>
 [**HERE**](https://www.bibsonomy.org/user/michelc) you can browse and search all my web browser bookmarks. 
 <br><br>
-**WEBSITES AND BOOKS AIMED TO EMPOWER.**
+**WEBSITES AND BOOKS TO EMPOWER.**
 
 *Themes and titles no particular order. Jump to the theme by clicking on the link below*
 
