@@ -39,10 +39,7 @@ Why to learn science? Below are great novels that will help you answer the quest
 
 To understand todays world, I would start in the following order: **math, physics, basic computer science, cognitive neuroscience**.
 
-#### Math
-
-**Math websites**
-
+#### Math websites
 
 - Spletna učilnica Fakultete za matematiko in fiziko, je prosto dostopna ;)
 
@@ -50,15 +47,13 @@ To understand todays world, I would start in the following order: **math, physic
 
 - [Here’s How to Teach Yourself Physics and Math](https://futurism.com/want-physicist-heres-guide/)
 
-#### Physics
-
-**Phyiscs websites**
+#### Phyiscs websites
 
 [How to become a GOOD Theoretical Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html)
 
 [So You Want to Learn Physics...](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
 
-**Physics Books**
+#### Physics Books
 
 - **Thinking Physics** - a perfect beginner’s guide to an amazingly wide range of physics-related questions (one of my favourites)
 
@@ -67,13 +62,13 @@ To understand todays world, I would start in the following order: **math, physic
 - **Surely You're Joking, Mr. Feynman!** autobiography from a great physicist and great physics teacher (not often are those two skills combined)
 
 
-#### Computer science
+#### Computer science websites
 
 [TOMO](https://www.projekt-tomo.si/accounts/login/?next=/course/17/)
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
-#### Cognitive neuroscience
+#### Cognitive neuroscience books
 
 - **Biopsychology** you know the parts of your computer and how they work, but do you know about your own hardware aka your brain
 
