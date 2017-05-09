@@ -9,7 +9,7 @@ category: links
 
 <p class="meta">9 May 2017 - Ljubljana</p>
 
-*This post is regularly updated*
+*This post is regretably not regularly updated*
 <br><br>
 [**HERE**](https://www.bibsonomy.org/user/michelc) you can browse and search all my web browser bookmarks. 
 <br><br>
@@ -21,7 +21,7 @@ category: links
 - [RATIONALITY](#rationality)
 - [EFFECTIVE ALTRUISM](#effective-altruism)
 
-<br><br>
+<br>
 
 ### SCIENCE
 
