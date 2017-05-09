@@ -7,12 +7,11 @@ category: links
 {{ page.title }}
 ================
 
-<p class="meta">25 April 2017 - Ljubljana</p>
+<p class="meta">9 May 2017 - Ljubljana</p>
 
+*This post is regularly updated*
 <br><br>
 [**HERE**](https://www.bibsonomy.org/user/michelc) you can browse and search all my web browser bookmarks. 
-
-I use tags to mark my bookmarks, so if you want to see more of what I thinks is great stuff on the topic of mathematics, just type "mathematics" and you will get all the links in chronological order with latest at the top. I bookmark links everyday, so this is the place where you get my latest favourite things that are not in the Wiki or this post yet.
 <br><br>
 **WEBSITES AND BOOKS TO EMPOWER.**
 
@@ -32,14 +31,18 @@ Why to learn science? Below are great novels that will help you answer the quest
 
 - [The Martian](https://www.readanybook.com/ebook/the-martian-565265)
 
-- Contact by Carl Sagan. 
+- **Contact** by Carl Sagan. 
  I love the fact that the leading character is a woman. Not enough women in STEM.
 
-- Foundation collection by Isaac Asimov (sadly not translated in Slovenian, if I will have the time I will do it in next 10 years)
+- **Foundation trilogy** by Isaac Asimov (sadly not translated in Slovenian, if I will have the time I will do it in next 10 years)
+
+- **Surely You're Joking, Mr. Feynman!** autobiography from a great physicist and great physics teacher (not often are those two skills combined)
 
 To understand todays world, I would start in the following order: **math, physics, basic computer science, cognitive neuroscience**.
 
-#### Math websites
+#### Math
+
+**Math websites**
 
 - Spletna učilnica Fakultete za matematiko in fiziko, je prosto dostopna ;)
 
@@ -47,28 +50,31 @@ To understand todays world, I would start in the following order: **math, physic
 
 - [Here’s How to Teach Yourself Physics and Math](https://futurism.com/want-physicist-heres-guide/)
 
-#### Phyiscs websites
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) a great youtube channel that can provide with an visual intuition or understanding of math
+
+- [Astra](http://astra.si/) tukaj so na voljo odlične razlage s področja "računanja" oz. komputacij vendar ni veliko materiala o tem zakaj računamo na tak način (ni matematičnih dokazov)
+
+#### Physics
+
+**Phyiscs websites**
 
 [How to become a GOOD Theoretical Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html)
 
 [So You Want to Learn Physics...](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
 
-#### Physics Books
+**Physics Books**
 
 - **Thinking Physics** - a perfect beginner’s guide to an amazingly wide range of physics-related questions (one of my favourites)
 
 - [The Feynman Lectures on Physics - FREE]() ranging from the basic principles of Newtonian physics through such formidable theories as general relativity and quantum mechanics, Feynman’s lectures are one of the best collections of books on physics
 
-- **Surely You're Joking, Mr. Feynman!** autobiography from a great physicist and great physics teacher (not often are those two skills combined)
-
-
-#### Computer science websites
+#### Computer science
 
 [TOMO](https://www.projekt-tomo.si/accounts/login/?next=/course/17/)
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
-#### Cognitive neuroscience books
+#### Cognitive neuroscience
 
 - **Biopsychology** you know the parts of your computer and how they work, but do you know about your own hardware aka your brain
 
@@ -90,7 +96,7 @@ To understand todays world, I would start in the following order: **math, physic
 **Rationality books**
 
 - [The Dating Game - FREE](http://people.duke.edu/~dandan/stories/Dating.pdf) - short story about how (ir)rational is dating
-
+ 
 ### EFFECTIVE ALTRUISM (EA)
 
 **EA websites**
