@@ -40,7 +40,7 @@ Why to learn science? Below are great novels that will help you answer the quest
 
 To understand todays world, I would start in the following order: **math, physics, basic computer science, cognitive neuroscience**.
 
-#### Math
+### Math
 
 **Math websites**
 
@@ -54,7 +54,7 @@ To understand todays world, I would start in the following order: **math, physic
 
 - [Astra](http://astra.si/) tukaj so na voljo odlične razlage s področja "računanja" oz. komputacij vendar ni veliko materiala o tem zakaj računamo na tak način (ni matematičnih dokazov)
 
-#### Physics
+### Physics
 
 **Phyiscs websites**
 
