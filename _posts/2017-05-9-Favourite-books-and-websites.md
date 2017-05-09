@@ -38,7 +38,7 @@ Why to learn science? Below are great novels that will help you answer the quest
 
 - **Surely You're Joking, Mr. Feynman!** autobiography from a great physicist and great physics teacher (not often are those two skills combined)
 
-To understand todays world, I would start in the following order: **math, physics, basic computer science, cognitive neuroscience**.
+To try and "understand" todays world, I would start in the following order: **math, physics, basic computer science, cognitive neuroscience**.
 
 ### Math
 
