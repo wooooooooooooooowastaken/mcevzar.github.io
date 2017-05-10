@@ -11,7 +11,7 @@ category: links
 
 ## Communication with people outside your field
 
-- **For listening to someone with a different point of view, especially absurd one** 
+- **For listening to someone with a different point of view, especially an "absurd" one** 
 
 >“Thank you for sharing that. Tell me your story. I’d love to know how you came to this point of view.” 
 
