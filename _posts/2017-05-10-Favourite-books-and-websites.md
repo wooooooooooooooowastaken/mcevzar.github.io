@@ -18,7 +18,7 @@ category: links
 
 - [SCIENCE](#science)
 - [RATIONALITY](#rationality)
-- [EFFECTIVE ALTRUISM](#effective-altruism)
+- [EFFECTIVE ALTRUISM](#effective-altruism-(EA))
 
 <br>
 
