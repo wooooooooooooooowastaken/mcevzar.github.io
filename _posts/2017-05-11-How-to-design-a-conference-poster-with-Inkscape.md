@@ -1,3 +1,14 @@
+---
+layout: post
+title: How to design a conference poster in Inkscape
+category: how-to
+---
+
+{{ page.title }}
+================
+
+<p class="meta">11 May 2017 - Ljubljana</p>
+
 ## Useful links
 
 [Scientific Poster
