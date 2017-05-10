@@ -55,9 +55,9 @@ To try and "understand" todays world, I would start in the following order: **ma
 
 ### Physics websites
 
-[How to become a GOOD Theoretical Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html)
+- [How to become a GOOD Theoretical Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html)
 
-[So You Want to Learn Physics...](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
+- [So You Want to Learn Physics...](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
 
 ### Physics Books
 
