@@ -23,14 +23,12 @@ print("Hello World")
 
 
 ### Swift
-&nbsp;
 ```
 print("Hello World")
 ```
 
 
 ### Julia
-&nbsp;
 ```
 print("Hello World")
 ```
