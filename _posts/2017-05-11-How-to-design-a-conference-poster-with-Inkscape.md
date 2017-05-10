@@ -55,6 +55,7 @@ Design](http://hsp.berkeley.edu/sites/default/files/ScientificPosters.pdf)
 - you can make rounder corners to squares with the button below the top arrow on the left or by double clicking on the square and manually setting the top left properties of ```Rx    ``` and ```Ry   ```
 - to remove the fill and change the edge line of an object (example: square), use the fill and stroke setting on the right side of the window
 
+
 ## Random tips
 
 - you can make hinges by rounding the end edges of a square and layering them in the proper physical order
