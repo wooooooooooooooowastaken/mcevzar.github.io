@@ -21,12 +21,12 @@ category: links
 ## [How to explain scientific topics by Dominic Walliman](https://www.youtube.com/watch?v=ARWBdfWpDyc)
 
 1. Start at audience knowledge base
-* ask what they now
+   * ask what they now
 
 2. Don't go too deep
 
 3. Clarity beats accuracy
-* they can iron out the details later if they are interested
+   * they can iron out the details later if they are interested
 
 4. Explain why you think it's cool
 
