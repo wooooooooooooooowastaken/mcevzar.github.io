@@ -47,11 +47,9 @@ To try and "understand" todays world, I would start in the following order: **ma
 
 - [Here’s How to Teach Yourself Physics and Math](https://futurism.com/want-physicist-heres-guide/)
 
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) a great youtube channel that can provide with an visual intuition of math
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) a great youtube channel that can provide a visual intuition of math
 
-- [Astra](http://astra.si/) tukaj so na voljo odlične razlage s področja "računanja" oz. komputacij vendar ni veliko materiala o tem zakaj računamo na tak način, kar je pomembno za razumevanje
-
- Malo koristi imaš od matematičnih formul, če jih znaš računati vendar ne veš kje bi ti lahko prišle prav. 
+- [Astra](http://astra.si/) tukaj so na voljo odlične razlage s področja "računanja" oz. komputacij vendar ni veliko materiala o tem zakaj računamo na tak način, kar je pomembno za razumevanje. Malo koristi imaš od matematičnih formul, če jih znaš računati vendar ne veš kje bi ti lahko prišle prav. 
 
 ### Physics websites
 
