@@ -28,7 +28,7 @@ category: links
 
 3. Clarity beats accuracy
    * they can iron out the details later if they are interested
-
+   <br>
 4. Explain why you think it's cool
 
 
