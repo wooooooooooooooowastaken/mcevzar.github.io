@@ -33,7 +33,7 @@ Why to learn science? Below are great novels that will help you answer the quest
 - **Contact** by Carl Sagan. 
  I love the fact that the leading character is a woman. Not enough women in STEM.
 
-- **Foundation trilogy** by Isaac Asimov (sadly not translated in Slovenian, if I will have the time I will do it in next 10 years)
+- **Foundation trilogy** by Isaac Asimov (sadly not translated in Slovenian, if I will have the time I will do it)
 
 - **Surely You're Joking, Mr. Feynman!** autobiography from a great physicist and great physics teacher (not often are those two skills combined)
 
