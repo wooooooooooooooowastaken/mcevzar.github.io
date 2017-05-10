@@ -7,11 +7,10 @@ category: links
 {{ page.title }}
 ================
 
-<p class="meta">9 May 2017 - Ljubljana</p>
+<p class="meta">10 May 2017 - Ljubljana</p>
 
-*This post is regretably not regularly updated*
 <br><br>
-[**HERE**](https://www.bibsonomy.org/user/michelc) you can browse and search all my web browser bookmarks. 
+[**HERE**](https://www.bibsonomy.org/user/michelc) you can browse and search all my web browser bookmarks. These are DAILY updated.They are sorted chronologicaly and can be searched by using tags such as "mathematics"
 <br><br>
 **WEBSITES AND BOOKS TO EMPOWER.**
 
@@ -40,43 +39,43 @@ Why to learn science? Below are great novels that will help you answer the quest
 
 To try and "understand" todays world, I would start in the following order: **math, physics, basic computer science, cognitive neuroscience**.
 
-### Math
+### Math websites
 
-**Math websites**
-
-- Spletna učilnica Fakultete za matematiko in fiziko, je prosto dostopna ;)
+- [Spletna učilnica FMF 2016/17](https://ucilnica.fmf.uni-lj.si/login/index.php) Spletna učilnica Fakultete za matematiko in fiziko, je prosto dostopna ;)
 
 - [Learning math on your own](https://medium.com/@amathstudent/learning-math-on-your-own-39fe90c3536b)
 
 - [Here’s How to Teach Yourself Physics and Math](https://futurism.com/want-physicist-heres-guide/)
 
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) a great youtube channel that can provide with an visual intuition or understanding of math
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) a great youtube channel that can provide with an visual intuition of math
 
-- [Astra](http://astra.si/) tukaj so na voljo odlične razlage s področja "računanja" oz. komputacij vendar ni veliko materiala o tem zakaj računamo na tak način (ni matematičnih dokazov)
+- [Astra](http://astra.si/) tukaj so na voljo odlične razlage s področja "računanja" oz. komputacij vendar ni veliko materiala o tem zakaj računamo na tak način, kar je pomembno za razumevanje
 
-### Physics
+ Malo koristi imaš od matematičnih formul, če jih znaš računati vendar ne veš kje bi ti lahko prišle prav. 
 
-**Phyiscs websites**
+### Physics websites
 
 [How to become a GOOD Theoretical Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html)
 
 [So You Want to Learn Physics...](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
 
-**Physics Books**
+### Physics Books
 
 - **Thinking Physics** - a perfect beginner’s guide to an amazingly wide range of physics-related questions (one of my favourites)
 
-- [The Feynman Lectures on Physics - FREE]() ranging from the basic principles of Newtonian physics through such formidable theories as general relativity and quantum mechanics, Feynman’s lectures are one of the best collections of books on physics
+- [The Feynman Lectures on Physics - FREE](http://feynmanlectures.caltech.edu/) ranging from the basic principles of Newtonian physics through such formidable theories as general relativity and quantum mechanics, Feynman’s lectures are one of the best collections of books on physics
 
-#### Computer science
+### Computer science websites
 
-[TOMO](https://www.projekt-tomo.si/accounts/login/?next=/course/17/)
+- [TOMO](https://www.projekt-tomo.si/accounts/login/?next=/course/17/) Slovenska stran za učenje programiranja 
 
-[Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [CODEQ](https://codeq.si/?s=login) odlična stran za začetnike programiranja, ponuja Python, Prolog in Lego Mindstorm.
 
-#### Cognitive neuroscience
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
-- **Biopsychology** you know the parts of your computer and how they work, but do you know about your own hardware aka your brain
+### Cognitive neuroscience books
+
+- **Introduction to Biopsychology** a nice introduction to neuroscience that doesn't require any previous knowledge 
 
 - [Gödel, Escher, Bach - FREE](https://www.physixfan.com/wp-content/files/GEBen.pdf) - classic book about how cognition and thinking emerge from well-hidden neurological mechanisms
 
@@ -91,15 +90,16 @@ To try and "understand" todays world, I would start in the following order: **ma
 - [Center for Applied Rationality](http://rationality.org/) nonprofit aimed at turning cognitive science to cognitive practice, they made an awesome [rational habit checklist](http://2ho3pq1fpuw423qecr4886n1.wpengine.netdna-cdn.com/wp-content/uploads/2013/01/checklist_of_rationality_habits.pdf)
 
 - [Cognitive bias list](http://rationalwiki.org/wiki/List_of_cognitive_biases) your brain uses shortcuts and sometimes those don't lead where we want to go, here is a more graphical representation
-- [Cognitive Biases Poster](http://ritholtz.com/wp-content/uploads/2016/09/1-71TzKnr7bzXU_l_pU6DCNA.jpeg) -  well designed poster with a number of cognitive biases
 
-**Rationality books**
+- [Cognitive Biases Poster](http://ritholtz.com/wp-content/uploads/2016/09/1-71TzKnr7bzXU_l_pU6DCNA.jpeg) -  well designed poster with a number of cognitive biases
 
 - [The Dating Game - FREE](http://people.duke.edu/~dandan/stories/Dating.pdf) - short story about how (ir)rational is dating
  
 ### EFFECTIVE ALTRUISM (EA)
 
 **EA websites**
+
+- [The lifelong activist](http://lifelongactivist.com/) a great book that helped me prevent burnout, just rememeber **for every self-help book there is someone who needs to read the exact opposite**
 
 - [Effective Altruism Wiki](http://wiki.effectivealtruismhub.com/index.php?title=Effective_Altruism_Wiki) practical advice on how to spread the 
   word about effective altruism
@@ -110,7 +110,7 @@ To try and "understand" todays world, I would start in the following order: **ma
 
 
 
-*I will try to update it asap*
+*Maybe the best songs are not written yet, but most of the very good ones are very close and the best will be only a little better*
 
 Best,
 Michel
