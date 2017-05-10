@@ -7,7 +7,7 @@ category: links
 {{ page.title }}
 ================
 
-<p class="meta">10 May 2017 - Ljubljana</p>
+<p class="meta">11 May 2017 - Ljubljana</p>
 
 ## Communication with people outside your field
 
