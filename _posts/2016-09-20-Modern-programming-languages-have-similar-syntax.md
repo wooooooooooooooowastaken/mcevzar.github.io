@@ -17,7 +17,6 @@ Let's have a look at the most classical and usually the first programm someone w
 **"Hello Word"**
 
 ### Python
-&nbsp;
 ```
 print("Hello World")
 ```
