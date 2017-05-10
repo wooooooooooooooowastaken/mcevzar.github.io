@@ -61,12 +61,15 @@ Most of the fun was just that fun and nothing more.
 ___Fun and hedonism exist only inside your head.___
 
 
-## 4. stage: What is the point of an average middle class life?
+## 4. stage: What is the point of an average consumerist life?
 
 Work, home, wife, kids, sleep, repeat. Maybe a morgage so you can afford your own house and die in peace on your piece of land. 
-***Congratulations you passed on your "very important" genes and well that is your legacy.***
+***Congratulations you passed on your "very important" genes and that is your legacy.***
 
-Your life will have very little meaning and small longterm impact on the world at large. The effect you will have will stay in your own little bubble/village/town. Essentialy your life is irrelavant.
+I think it's important to do your best.
+Maybe our best is living an anticonsumerist lifestlye and performing small acts of kindness at your local community. That is an important part of the puzzle. Sadly not all of us have the environment and potential to become the next Einstein or Tesla. And that is completely fine.
+
+>For the growing good of the world is partly dependent on unhistoric acts; and that things are not so ill with you and me as they might have been, is half owing to the number who lived faithfully a hidden life, and rest in unvisited tombs.
 
 
 ## 5. stage: How to become an effective altruist?
@@ -97,22 +100,4 @@ Do something that meanigfully benefits the largest number of people possible and
 If you know that a couple of hours of volunteering is maximum what you can do AND you do that - I aplaud you. That is already much more than most people. If you add to that lowering your consumption, "FIST BUMP" fellow citizen of the world. 
 
 
-
-## Appendix: Question for the fellow consumer
-
-Dear consumer,
-
-how does it feel one week into buying that BMW and new Armani Jeans?
-
-Does it empower you? Make you feel amazing? Will it enable you to make even more money, get more leverage, influence and power?
-
-**Power, influence, leverage to do what?**
-
-You have an amazing amount of power at your fingertips and you "wasted" it on taking care of your ego. Your ego that exist only in that place between your ears.
-
-And that in 100 years after your death you will have no relevant effect on this planet and society. It doesn't matter if you even lived. 
-
-Big deal if you partied your life away, no one will care. If all you did was make money and spawn some kids, no one will care.
-
-But the whole world remembers a monk,a nune, a doctor  and many others that had nowhere near the amount of money and yet did what they could and that was much more than you.
 
