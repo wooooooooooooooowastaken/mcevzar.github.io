@@ -18,6 +18,7 @@ category: links
         You can’t argue with crazy.
 
  
+
 ## [How to explain scientific topics by Dominic Walliman](https://www.youtube.com/watch?v=ARWBdfWpDyc)
 
 1. Start at audience knowledge base
