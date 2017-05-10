@@ -31,8 +31,11 @@ category: links
 
 4. Explain why you think it's cool
 
- <br>
+
+<br>
+
 ## How to explain things to the masses
+<br>
 
 - [Moč argumentov v javnosti](http://www.kvarkadabra.net/2017/04/argumenti-v-javnosti/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+kvarkadabra+%28Kvarkadabra%29)
 
