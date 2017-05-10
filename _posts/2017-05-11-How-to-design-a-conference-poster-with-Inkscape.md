@@ -1,3 +1,5 @@
+## Useful links
+
 [Scientific Poster
 Design](http://hsp.berkeley.edu/sites/default/files/ScientificPosters.pdf)
 
@@ -7,7 +9,7 @@ Design](http://hsp.berkeley.edu/sites/default/files/ScientificPosters.pdf)
 
 [Making a Math Conference Poster with Inkscape](http://blog.felixbreuer.net/2010/10/24/poster.html)
 
-**be carefull with layers and how objects use them, if you export to .pdf and can not see everything that you have in your .svg, there is something wrong with the layers and you have to remix them until it works**
+**Be carefull with layers and how objects use them**, if you export to `.pdf` and can not see everything that you have in your `.svg`, there is something wrong with the layers and you have to "remix" them until it works
 
 ## Inkscape
 
