@@ -22,7 +22,7 @@ category: links
 
 <br>
 
-### SCIENCE
+## SCIENCE
 
 Why to learn science? Below are great novels that will help you answer the question why science is cool :D
 
@@ -93,7 +93,7 @@ To try and "understand" todays world, I would start in the following order: **ma
 
 - [The Dating Game - FREE](http://people.duke.edu/~dandan/stories/Dating.pdf) - short story about how (ir)rational is dating
  
-### EFFECTIVE ALTRUISM (EA)
+## EFFECTIVE ALTRUISM (EA)
 
 **EA websites**
 
