@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Easy way to publish, write & cite scientific text
+title: How to publish, write & cite scientific text
 category: how-to
 ---
 
