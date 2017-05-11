@@ -18,10 +18,10 @@ Setup your free webpage using GitHub Pages.
 
 ## 3. Copy & Paste on steroids
 
-[Easy Copy?](https://sites.google.com/site/smokyinkproductions/easy-copy) allows you to copy text and then paste it in MediaWiki, Markdown or any other form or syntax you wish. 
+[Easy Copy](https://sites.google.com/site/smokyinkproductions/easy-copy) allows you to copy text and then paste it in MediaWiki, Markdown or any other form or syntax you wish. 
 I use this `[%title%](%url%)` which will paste the words I colored together with the URL and put them in Mardown syntax.
 
-## 2. Setup Mendeley to automaticaly generate .bib files
+## 4. Setup Mendeley to automaticaly generate .bib files
 
 - [Install Mendeley](https://www.mendeley.com/)
 
@@ -30,7 +30,7 @@ I use this `[%title%](%url%)` which will paste the words I colored together with
 - [Set Mendeley to automaticaly generate .bib files](https://blog.mendeley.com/2012/03/24/how-to-series-generate-bibtex-files-for-your-collections-for-use-in-latex-part-3-of-12/)
 `.bib` files are used for creating a citation database and can be used in a number of "languages" such as Latex and Markdown to name a few. We will use this files to enable autocomplete function for our citations
 
-## 3. Setup a text editor for writing the text
+## 5. Setup a text editor for writing the text
 
 - I recommend [**RMarkdown with RStudio**](https://www.rstudio.com/) as your text editor 
    
