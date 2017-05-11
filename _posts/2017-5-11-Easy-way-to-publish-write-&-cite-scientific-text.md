@@ -12,6 +12,15 @@ Setup your free webpage using GitHub Pages.
 [LINK to Github pages](https://pages.github.com/)
 
 
+## 2. Get access to papers in a legal way
+
+[Read paywalled research papers for free. ](http://unpaywall.org/)
+
+## 3. Copy & Paste on steroids
+
+[Easy Copy?](https://sites.google.com/site/smokyinkproductions/easy-copy) allows you to copy text and then paste it in MediaWiki, Markdown or any other form or syntax you wish. 
+I use this `[%title%](%url%)` which will paste the words I colored together with the URL and put them in Mardown syntax.
+
 ## 2. Setup Mendeley to automaticaly generate .bib files
 
 - [Install Mendeley](https://www.mendeley.com/)
