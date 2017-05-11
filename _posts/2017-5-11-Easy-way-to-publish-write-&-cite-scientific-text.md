@@ -1,3 +1,14 @@
+---
+layout: post
+title: Easy way to publish, write & cite scientific text
+category: how-to
+---
+
+{{ page.title }}
+================
+
+<p class="meta">11 May 2017 - Ljubljana</p>
+
 Scientists should write more texts that are aimed towards a general public. But it used to be complicated to copy and paste all the references etc. format the text and graphics, publish...
 Below are the tools to perform all of the above in a fast and easy way.
 
