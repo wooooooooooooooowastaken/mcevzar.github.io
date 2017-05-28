@@ -28,7 +28,7 @@ Why to learn science? Below are great novels that will help you answer the quest
 
 - [Harry Potter and Methods of Rationality - FREE](http://hpmor.com/) - the most popular fanfic featuring a genius scientist Harry Potter in an alternate magical universe
 
-- [The Martian](https://www.readanybook.com/ebook/the-martian-565265)
+- [The Martian](https://www.readanybook.com/ebook/the-martian-565265) - by Andy Weir. He scienced the shit out of this one.
 
 - **Contact** by Carl Sagan. 
  I love the fact that the leading character is a woman. Not enough women in STEM.
@@ -36,8 +36,6 @@ Why to learn science? Below are great novels that will help you answer the quest
 - **Foundation trilogy** by Isaac Asimov (sadly not translated in Slovenian, if I will have the time I will do it)
 
 - **Surely You're Joking, Mr. Feynman!** autobiography from a great physicist and great physics teacher (not often are those two skills combined)
-
-- **The Martian** by Andy Weir. To science the shit out of this one.
 
 - **The astronauts guide to life on earth** by Chris Hadfield. Being good at science can put you into space ;)
 
