@@ -37,6 +37,10 @@ Why to learn science? Below are great novels that will help you answer the quest
 
 - **Surely You're Joking, Mr. Feynman!** autobiography from a great physicist and great physics teacher (not often are those two skills combined)
 
+- **The Martian** by Andy Weir. To science the shit out of this one.
+
+- **The astronauts guide to life on earth** by Chris Hadfield. Being good at science can put you into space ;)
+
 To try and "understand" todays world, I would start in the following order: **math, physics, basic computer science, cognitive neuroscience**.
 
 ### Math websites
